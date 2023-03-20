@@ -2,6 +2,7 @@
 
 <img width="318" alt="42box_orange_logo" src="https://user-images.githubusercontent.com/67938113/226243235-89eb97f2-c48f-4db9-bf34-c38231ed37eb.png">
 
+---
 
 # Welcome to [42 Box]! 📦✨
 [42 Box]는, 클러스터 맥이나 개인 맥북에서 42서울의 여러가지 서비스들을 <br/>
@@ -10,12 +11,9 @@
 <br/>
 
 # How to Install
-https://github.com/42Box/macOS/blob/main/README.md#how-to-execute-
+[👉 다운로드 하러가기! 📦:sparkles:🦊](https://github.com/42Box/macOS/blob/main/README.md#how-to-execute-)
 <br/>
 <br/>
-
-### [PDF](https://github.com/42Box/PDFforHackthon)
-
 <br/>
 
 🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨
