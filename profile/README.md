@@ -2,3 +2,5 @@
 
 
 # 42 Box
+
+![42BoxPoster](https://user-images.githubusercontent.com/85754295/226227895-9305f00e-1357-4359-8efc-3d13faf6ad77.jpg)
