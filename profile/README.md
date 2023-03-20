@@ -36,7 +36,7 @@ https://github.com/42Box/macOS/blob/main/README.md#how-to-execute-
 <details>
 <summary> 👉 42Box 포스터 보기! (클릭!)</summary>
 <div markdown="1">
-![42box_poster](https://user-images.githubusercontent.com/85754295/226231848-a088ed35-afe0-4414-b704-125a48f3f816.png)
+<img src="https://user-images.githubusercontent.com/85754295/226231848-a088ed35-afe0-4414-b704-125a48f3f816.png">
 
 </div>
 </details>
