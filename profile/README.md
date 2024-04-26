@@ -5,13 +5,19 @@
 ---
 
 # Welcome to [42 Box]! 📦✨
-[42 Box]는, 클러스터 맥이나 개인 맥북에서 42서울의 여러가지 서비스들을 <br/>
-손쉽게 이용할 수 있도록 도와주는 플랫폼입니다! (macOS 웹앱)
-<br/>
+[42 Box]는, 클러스터 맥이나 개인 맥북 뿐만아니라 아이폰에서 42서울의 여러가지 서비스들을 <br/>
+손쉽게 이용할 수 있도록 도와주는 플랫폼입니다!
+
+- iOS 웹 플랫폼
+- macOS 웹 플랫폼
+
 <br/>
 
 # How to Install
-[👉 다운로드 하러가기! 📦:sparkles:🦊](https://github.com/42Box/macOS/blob/main/README.md#how-to-execute-)
+[👉 iOS버전 📱 Gihub 보러가기! 📦✨🦊](https://github.com/42Box/iOS)
+
+[👉 macOS버전 💻 다운로드 하러가기! 📦✨🦊](https://github.com/42Box/macOS/blob/main/README.md#how-to-execute-)
+
 <br/>
 <br/>
 <br/>
@@ -40,6 +46,10 @@
 </details>
 🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨🍀✨
 
+<br/>
+<br/>
+
+### [iOS(Application)](https://github.com/42Box/iOS)
 ### [macOS(Application)](https://github.com/42Box/macOS)
 ### [frontEnd(Server)](https://github.com/42Box/front-end)
 
