@@ -49,7 +49,8 @@
 <br/>
 <br/>
 
-### [iOS(Application)](https://github.com/42Box/iOS)
+### [iOS(Application)](https://github.com/42Box/iOS)
 ### [macOS(Application)](https://github.com/42Box/macOS)
+### [frontEndv2.0(Server)](https://github.com/42Box/front-end2.0)
 ### [frontEnd(Server)](https://github.com/42Box/front-end)
 
