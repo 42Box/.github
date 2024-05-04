@@ -14,7 +14,12 @@
 <br/>
 
 # How to Install
+<a href="https://user-images.githubusercontent.com/67938113/226243235-89eb97f2-c48f-4db9-bf34-c38231ed37eb.png" target="_blank">
+  <img width="180" alt="appstore" src="https://user-images.githubusercontent.com/55099365/196023806-5eb7be0f-c7cf-4661-bb39-35a15146c33a.png">
+</a>
+
 [👉 iOS버전 📱 Gihub 보러가기! 📦✨🦊](https://github.com/42Box/iOS)
+
 
 [👉 macOS버전 💻 다운로드 하러가기! 📦✨🦊](https://github.com/42Box/macOS/blob/main/README.md#how-to-execute-)
 
