@@ -15,7 +15,7 @@
 
 # How to Install
 
-<a href="https://apps.apple.com" target="_blank">
+<a href="https://apps.apple.com/kr/app/42box/id6499335551" target="_blank">
   <img width="180" alt="appstore" src="https://user-images.githubusercontent.com/55099365/196023806-5eb7be0f-c7cf-4661-bb39-35a15146c33a.png">
 </a>
 
